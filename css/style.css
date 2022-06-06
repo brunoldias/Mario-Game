@@ -87,3 +87,10 @@ width: 100px;
 background-color: red;
 color: white;
 }
+
+.home-play h1 {
+color: black;
+position: absolute;
+margin-left: 45%;
+bottom: 45%;
+}
