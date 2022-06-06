@@ -1,3 +1,4 @@
 # Mario-Game
 Joguinho para brincar com js e css.
-Acesse: https://brunoldias.github.io/Mario-Game/
+<br>
+<a href="https://brunoldias.github.io/Mario-Game/">Clique aqui para jogar</a>
